@@ -1,0 +1,31 @@
+[33mcommit a23fe004ac7e6d4cbe0d8b87c76a9b14120c187f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Reflog: HEAD@{0} (Scoutinglegion <2916639503@qq.com>)
+Reflog message: commit: first commit
+Author: Scoutinglegion <2916639503@qq.com>
+Date:   Tue Sep 26 07:03:50 2017 +0800
+
+    first commit
+
+[33mcommit 712f4b35b1e7d3fd3dcad4a599c0d6f138aa2ba6[m
+Reflog: HEAD@{1} (Scoutinglegion <2916639503@qq.com>)
+Reflog message: checkout: moving from master to master
+Author: Scoutinglegion <2916639503@qq.com>
+Date:   Tue Sep 26 03:55:14 2017 +0800
+
+    README.md
+
+[33mcommit 712f4b35b1e7d3fd3dcad4a599c0d6f138aa2ba6[m
+Reflog: HEAD@{2} (Scoutinglegion <2916639503@qq.com>)
+Reflog message: checkout: moving from master to master
+Author: Scoutinglegion <2916639503@qq.com>
+Date:   Tue Sep 26 03:55:14 2017 +0800
+
+    README.md
+
+[33mcommit 712f4b35b1e7d3fd3dcad4a599c0d6f138aa2ba6[m
+Reflog: HEAD@{3} (Scoutinglegion <2916639503@qq.com>)
+Reflog message: commit (initial): README.md
+Author: Scoutinglegion <2916639503@qq.com>
+Date:   Tue Sep 26 03:55:14 2017 +0800
+
+    README.md
